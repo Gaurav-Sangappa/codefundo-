@@ -1,5 +1,5 @@
 # codefundo-
-#We would use the features offered by AI, Machine Learning and data analytics for the task. By collecting the data of different factors such as rainfall, climate, humidity, moisture content, temperature variations, topography and the time frames at which the disasters have occurred over the years (data of past 100 odd years at least), we can come up with a pattern which helps us predict the different variables that ideally together may cause a natural disaster in that area.
+We would use the features offered by AI, Machine Learning and data analytics for the task. By collecting the data of different factors such as rainfall, climate, humidity, moisture content, temperature variations, topography and the time frames at which the disasters have occurred over the years (data of past 100 odd years at least), we can come up with a pattern which helps us predict the different variables that ideally together may cause a natural disaster in that area.
 
 By getting constant feed of data and images from satellites to analyse and predict weather, sea and wind patterns(to predict hurricanes), in case of even slight irregularity, we dig into that case and depending on intensity send out alerts/warnings to the target group.
 
